@@ -26,6 +26,7 @@ namespace Tyuiu.PetrovNE.Sprint2.Task1.V24
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("***************************************************************************");
             DataService ds = new DataService();
             int a = 325, b = 325, c = 242, d = 324;
             bool[] res = new bool[6];
